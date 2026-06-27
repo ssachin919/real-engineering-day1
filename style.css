@@ -1,0 +1,29 @@
+body {
+    font-family: Arial, sans-serif;
+    background: #f4f7fb;
+    margin: 0;
+  }
+  
+  .container {
+    max-width: 700px;
+    margin: 80px auto;
+    padding: 40px;
+    background: white;
+    border-radius: 16px;
+    text-align: center;
+  }
+  
+  h1 {
+    font-size: 40px;
+  }
+  
+  p {
+    font-size: 18px;
+    color: #444;
+  }
+  
+  button {
+    padding: 14px 24px;
+    font-size: 16px;
+    cursor: pointer;
+  }
